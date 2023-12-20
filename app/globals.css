@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply dark:bg-darkBlue dark:text-white font-opensans scrollbar-thin scrollbar-thumb-gray-400;
+  }
+}
