@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fylo Landing Page
 
-## Getting Started
+![Fylo Landing Page](image-screenshot.png)
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Fylo is a visually appealing landing page designed for simplicity and effectiveness in presenting information. The clean and modern design aims to make a strong visual impact on users.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Visual Elements
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Access Anywhere
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Access Anywhere](image-access.png)
 
-## Learn More
+The ability to use a smartphone, tablet, or computer to access your account means your files follow you everywhere.
 
-To learn more about Next.js, take a look at the following resources:
+### Security You Can Trust
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Security You Can Trust](image-security.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2-factor authentication and user-controlled encryption are just a couple of the security features we allow to help secure your files.
 
-## Deploy on Vercel
+### Collaboration
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Collaboration](image-collaboration.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Seamlessly collaborate with friends, family, and colleagues. Your files are accessible anywhere, anytime.
+
+### Stay Productive
+
+![Stay Productive](image-productive.png)
+
+Never let location be an issue when accessing your files. Fylo has you covered for all your file storage needs.
+
+## Testimonials
+
+![Background Quotes](image-bg-quotes)
+
+"Fylo has improved our team productivity by an order of magnitude. Since making the switch, our team has become a well-oiled collaboration machine."
+
+**Satish Patel**  
+*Founder & CEO, Huddle*
+
+![Profile Picture](image-profile)
+
+## Dark Mode
+
+Fylo offers a seamless transition to a dark theme for users who prefer a different visual experience. Toggle between light and dark themes for a personalized browsing experience.
+
+![Dark Mode](image-dark-mode.png)
+
+## Get Early Access Today
+
+It only takes a minute to sign up, and our free starter tier is extremely generous. If you have any questions, our support team would be happy to help you.
+
+- **Email:** email@example.com
+
+[Get Started For Free](#)  
+![Phone Icon](phone-image) +1-543-123-4567  
+![Email Icon](email-image) example@fylo.com
+
+## Contact Us
+
+For any inquiries or assistance, feel free to reach out to us.
+
+---
+
+*About Fylo:*
+- [Jobs](#)
+- [Press](#)
+- [Blog](#)
+- [Terms](#)
+- [Privacy](#)
+
+---
+
+**Fylo - Your Trusted File Storage Solution**
+
